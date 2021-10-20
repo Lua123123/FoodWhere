@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "310280607420",
+    "project_id": "foodwhere-86a1f",
+    "storage_bucket": "foodwhere-86a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310280607420:android:f5cbb350586e68883f22b9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310280607420-suriuekemmuuttnb5pfkptm0hhdcs2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvdZnwzeKQGuj_7o9Una6S9V4kaWeaFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310280607420-suriuekemmuuttnb5pfkptm0hhdcs2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310280607420:android:10ba17743e171ec03f22b9",
+        "android_client_info": {
+          "package_name": "com.example.foodwhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310280607420-suriuekemmuuttnb5pfkptm0hhdcs2fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvdZnwzeKQGuj_7o9Una6S9V4kaWeaFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310280607420-suriuekemmuuttnb5pfkptm0hhdcs2fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
